@@ -1,0 +1,13 @@
+hashedCardNumber,transactionTimestamp,transactionAmount
+123GoodCardSingle,2014-04-29T12:15:51,12.00
+123BadCardSingle,2014-04-29T13:15:51,120.00
+123BadCardWithinSameDay,2014-04-04T14:16:51,60.50
+123BadCardWithinSameDay,2014-04-04T15:18:51,30.50
+123BadCardWithinSameDay,2014-04-04T16:17:51,30.50
+123BadCardOutsideSameDay,2014-04-05T12:16:51,60.50
+123BadCardOutsideSameDay,2014-04-07T11:18:51,60.50
+123BadCardOutsideSameDay,2014-04-08T12:18:51,60.50
+123BadCardWithinSameDayButDifferentDates,2014-04-10T12:18:51,60.50
+123BadCardWithinSameDayButDifferentDates,2014-04-11T11:18:51,60.50
+123GoodCardWithinSameDayButDifferentDates,2014-04-12T12:18:51,60.50
+123GoodCardWithinSameDayButDifferentDates,2014-04-13T10:18:51,20.50
