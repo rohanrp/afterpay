@@ -47,7 +47,7 @@ Run the following
 npx ts-node ./src/index.ts  {{ threshold amount}} {{ csv file location }}
 
 ```
-npx ts-node ./src/index.ts 1000assets/transactions.csv
+npx ts-node ./src/index.ts 1000 assets/transactions.csv
 ```
 
 
